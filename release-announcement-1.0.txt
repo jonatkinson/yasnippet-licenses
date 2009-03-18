@@ -1,0 +1,15 @@
+Hello,
+
+Just a quick note to mention that I've created a set of snippets for inserting the short and long forms of various FSF licenses (The GNU GPL, the LGPL, AGPL etc). They've available on github at:
+
+http://github.com/jonatkinson/yasnippet-licenses/tree/master
+
+... and I've made the first release, a tarball is available here:
+
+http://cloud.github.com/downloads/jonatkinson/yasnippet-licenses/yasnippet-license-1.0.tar.gz
+
+If this URL could be included on the UserContributedSnippets page, that would be much appreciated.
+
+Cheers,
+
+--Jon
