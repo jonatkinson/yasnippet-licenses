@@ -17,7 +17,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #contributor : Jon Atkinson <jon@jonatkinson.co.uk>
 #name : GNU Lesser General Public License Version 3
 # --
-* Copyright (c) ${1:year}, ${2:copyright holder}
+* Copyright (c) ${1:`(substring (current-time-string) -4)`}, ${2:copyright holder}
 * All rights reserved.
 *
 * Redistribution and use in source and binary forms, with or without
